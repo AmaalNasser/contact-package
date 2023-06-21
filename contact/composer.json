@@ -1,0 +1,17 @@
+{
+    "name": "amaal/contact",
+    "description": "[A laravel package for manaing contacts]",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Amaal\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "auto"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
